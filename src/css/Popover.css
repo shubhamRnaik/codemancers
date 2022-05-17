@@ -1,0 +1,45 @@
+/* .header{
+    
+    display: relative;
+   color:  red;
+}
+
+.Input {
+    margin: 20% 40%;
+    padding: 10px 5px;
+}
+
+.input{
+    color: red;
+}
+
+.item{
+    
+    margin: 20% 40%
+} */
+
+
+
+.modalpop1{
+    top:70%;
+    background-color: rgb(214, 54, 54);
+    width: 200px;
+    margin: 0px auto;
+    position: relative;
+    transform: translateY(-50%);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.SubmitButton{
+   padding-bottom: 7px;
+   margin-left: 270px;
+}
+
+.Input_1{
+    padding: 3px 0;
+    outline: none;
+    border: none;
+    font-size: medium;
+    font-weight: 300;
+}
